@@ -1,16 +1,18 @@
 const generatedBibEntries = {
   "Mellouk2020DeepLearning": {
-    "type": "article",
-    "title": "Facial emotion recognition using deep learning: Review and insights",
-    "author": "Wafa Mellouk and Wahida Handouzi",
-    "journal": "Procedia Computer Science",
-    "volume": "175",
-    "pages": "689-694",
-    "year": "2020",
-    "publisher": "Elsevier",
-    "doi": "10.1016/j.procs.2020.07.101",
-    "keywords": "facial_emotion_recognition, deep_learning, survey"
-  },
+  "type": "article",
+  "key": "Mellouk2020DeepLearning",
+  "title": "Facial emotion recognition using deep learning: Review and insights",
+  "author": "Wafa Mellouk, Wahida Handouzi",
+  "journal": "Procedia Computer Science",
+  "volume": "175",
+  "pages": "689-694",
+  "year": "2020",
+  "publisher": "Elsevier",
+  "doi": "10.1016/j.procs.2020.07.101",
+  "keywords": "facial_emotion_recognition, deep_learning, survey"
+}
+,
   "Jaiswal2020DeepLearning": {
   "type": "conference",
   "key": "Jaiswal2020DeepLearning",
