@@ -98,8 +98,8 @@ const generatedBibEntries = {
     "pages": "53-79",
     "year": "2020",
     "publisher": "AIS",
-    "doi": "10.33969/AIS.2020.21005",
-    "url": "https://doi.org/10.33969/AIS.2020.21005",
+    "doi": "10.23969/AIS.2020.21005",
+    "url": "https://doi.org/10.23969/AIS.2020.21005",
     "keywords": "emotion_recognition, detection_methods, survey"
   },
   "Abd2023HybridApproach": {
