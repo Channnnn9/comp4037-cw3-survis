@@ -82,18 +82,21 @@ const generatedBibEntries = {
     "doi": "10.23969/AIS.2020.21005",
     "keywords": "emotion_recognition, detection_methods, survey"
   },
-  "Abd2023HybridApproach": {
-    "type": "article",
-    "title": "Hybrid deep neural networks for face emotion recognition",
-    "author": "N. Jain and S. Kumar and A. Kumar and P. Shamsolmoali",
-    "journal": "Pattern Recognition",
-    "volume": "122",
-    "pages": "108261",
-    "year": "2023",
-    "publisher": "Elsevier",
-    "doi": "10.1016/j.patcog.2021.108261",
-    "keywords": "hybrid_dnn, face_emotion_recognition"
-  },
+ "Abd2023HybridApproach": {
+  "type": "article",
+  "key": "Abd2023HybridApproach",
+  "title": "Hybrid deep neural networks for face emotion recognition",
+  "author": "N. Jain, S. Kumar, A. Kumar, P. Shamsolmoali",
+  "journal": "Pattern Recognition",
+  "volume": "122",
+  "number": "1",
+  "pages": "103261",
+  "year": "2023",
+  "publisher": "Elsevier",
+  "doi": "10.1016/j.patcog.2021.108261",
+  "keywords": "hybrid_dnn, face_emotion_recognition"
+}
+,
   "Kanwal2022CNNPerformance": {
     "type": "article",
     "title": "Evaluating CNN architectures for real-time facial emotion recognition",
