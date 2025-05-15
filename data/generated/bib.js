@@ -69,30 +69,34 @@ const generatedBibEntries = {
   "keywords": "deep_learning, facial_expression_recognition, survey"
 }
 ,
-  "Naga2023Survey": {
-    "type": "article",
-    "title": "Facial emotion recognition methods, datasets and technologies: A literature survey",
-    "author": "Prameela Naga and Raiza Swamy Das and Mari Marri",
-    "journal": "Materials Today: Proceedings",
-    "volume": "49",
-    "pages": "2824-2828",
-    "year": "2023",
-    "publisher": "Elsevier",
-    "doi": "10.1016/j.matpr.2021.07.046",
-    "keywords": "facial_emotion_recognition, datasets, methods"
-  },
+ "Naga2023Survey": {
+  "type": "article",
+  "key": "Naga2023Survey",
+  "title": "Facial emotion recognition methods, datasets and technologies: A literature survey",
+  "author": "Prameela Naga, Swamy Das Marri, Raiza Borreo",
+  "journal": "Materials Today: Proceedings",
+  "volume": "49",
+  "pages": "2824-2828",
+  "year": "2023",
+  "publisher": "Elsevier",
+  "doi": "10.1016/j.matpr.2021.07.046",
+  "keywords": "facial_emotion_recognition, datasets, methods"
+}
+,
   "Saxena2020ComprehensiveSurvey": {
-    "type": "article",
-    "title": "Emotion recognition and detection methods: A comprehensive survey",
-    "author": "Anvita Saxena and Ashish Khanna and Deepak Gupta",
-    "journal": "Journal of Artificial Intelligence and Systems",
-    "volume": "2",
-    "pages": "53-79",
-    "year": "2020",
-    "publisher": "AIS",
-    "doi": "10.23969/AIS.2020.21005",
-    "keywords": "emotion_recognition, detection_methods, survey"
-  },
+  "type": "article",
+  "key": "Saxena2020ComprehensiveSurvey",
+  "title": "Emotion recognition and detection methods: A comprehensive survey",
+  "author": "Anvita Saxena, Ashish Khanna, Deepak Gupta",
+  "journal": "Journal of Artificial Intelligence and Systems",
+  "volume": "2",
+  "pages": "53-79",
+  "year": "2020",
+  "publisher": "AIS",
+  "doi": "10.23969/AIS.2020.21005",
+  "keywords": "emotion_recognition, detection_methods, survey"
+}
+,
  "Abd2023HybridApproach": {
   "type": "article",
   "key": "Abd2023HybridApproach",
@@ -108,28 +112,31 @@ const generatedBibEntries = {
   "keywords": "hybrid_dnn, face_emotion_recognition"
 }
 ,
-  "Kanwal2022CNNPerformance": {
-    "type": "article",
-    "title": "Evaluating CNN architectures for real-time facial emotion recognition",
-    "author": "Kanwal Kanwal and Rehman Rehman",
-    "journal": "IEEE Access",
-    "volume": "10",
-    "pages": "45678-45688",
-    "year": "2022",
-    "publisher": "IEEE",
-    "doi": "10.1109/ACCESS.2022.3156789",
-    "keywords": "cnn, real_time, performance_evaluation"
-  },
+ "Kanwal2022CNNPerformance": {
+  "type": "article",
+  "key": "Kanwal2022CNNPerformance",
+  "title": "Evaluating CNN architectures for real-time facial emotion recognition",
+  "author": "Kanwal Kanwal, Rehman Rehman",
+  "journal": "IEEE Access",
+  "volume": "10",
+  "pages": "45678-45688",
+  "year": "2022",
+  "publisher": "IEEE",
+  "doi": "10.1109/ACCESS.2022.3156789",
+  "keywords": "cnn, real_time, performance_evaluation"
+}
+,
   "Lee2022TransferLearning": {
-    "type": "article",
-    "title": "Transfer learning approaches for facial emotion recognition",
-    "author": "Lee J. and Kim K.",
-    "journal": "Neural Networks",
-    "volume": "145",
-    "pages": "50-60",
-    "year": "2022",
-    "publisher": "Elsevier",
-    "doi": "10.1016/j.neunet.2022.06.005",
-    "keywords": "transfer_learning, facial_emotion_recognition"
-  }
+  "type": "article",
+  "key": "Lee2022TransferLearning",
+  "title": "Transfer learning approaches for facial emotion recognition",
+  "author": "J. Lee, K. Kim",
+  "journal": "Neural Networks",
+  "volume": "145",
+  "pages": "50-60",
+  "year": "2022",
+  "publisher": "Elsevier",
+  "doi": "10.1016/j.neunet.2022.06.005",
+  "keywords": "transfer_learning, facial_emotion_recognition"
+}
 };
