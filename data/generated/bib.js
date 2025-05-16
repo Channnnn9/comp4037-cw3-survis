@@ -128,8 +128,8 @@ const generatedBibEntries = {
     "pages": "",
     "year": "2024",
     "publisher": "IEEE",
-    "doi": "10.1109/ACCESS.2024.3356936",
-    "url": "https://doi.org/10.1109/ACCESS.2024.3356936",
+    "doi": "10.1109/ACCESS.2024.3472907",
+    "url": "https://doi.org/10.1109/ACCESS.2024.3472907",
     "keywords": "network_intrusion_detection, cross_dataset_generalization, deep_learning"
   },
   "Sarker2021MLAlgorithms": {
