@@ -143,8 +143,8 @@ const generatedBibEntries = {
     "pages": "",
     "year": "2021",
     "publisher": "Springer",
-    "doi": "10.1007/s42979-021-00765-7",
-    "url": "https://doi.org/10.1007/s42979-021-00765-7",
+    "doi": "10.1007/s42979-021-00592-x",
+    "url": "https://doi.org/10.1007/s42979-021-00592-x",
     "keywords": "machine_learning, real_world_applications, research_directions"
   }
 };
