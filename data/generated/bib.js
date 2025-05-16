@@ -136,7 +136,7 @@ const generatedBibEntries = {
     "type": "article",
     "key": "Sarker2021MLAlgorithms",
     "title": "Machine learning: Algorithms, real-world applications and research directions",
-    "author": "Iqbal H. Sarker",
+    "author": "Iqbal H.Sarker",
     "journal": "SN Computer Science",
     "volume": "2",
     "number": "3",
